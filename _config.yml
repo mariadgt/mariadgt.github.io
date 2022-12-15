@@ -7,33 +7,21 @@ theme: jekyll-theme-chirpy
 # and doesn't have a custom domain.
 baseurl: ''
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: es-ES
 
-
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Madrid
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: mariadgt                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: mi web   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
-
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://mariadgt.github.io'
 
 github:
-  username: github_username             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
+  username: mariadgt      
 
 social:
   # Change to your full name.
@@ -48,17 +36,9 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification:               # fill in to your verification string
-
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id:                 # fill in your Google Analytics ID
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
